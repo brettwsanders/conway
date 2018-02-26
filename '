@@ -64,7 +64,6 @@
             }
             table.appendChild(tr);
         }
-        $('#container').appendChild(table);
     }
 
     const size = 5;
