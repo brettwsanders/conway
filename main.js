@@ -70,7 +70,7 @@
     const size = 10;
     const game = new Game(size);
     createGameView(size);
-    console.log(game.board.join("\n"));
+    //console.log(game.board.join("\n"));
 }());
 
 
